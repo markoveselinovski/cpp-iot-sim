@@ -9,6 +9,6 @@ int main() {
 
     std::string json = "{ \"temperature\": " + std::to_string(temperature) + " }";
     std::cout << json << std::endl;
-
+    
     return 0;
 }
